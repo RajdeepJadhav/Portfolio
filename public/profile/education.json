@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "2021",
+            "cardTitle": "B.Tech, Mechanical Engineering",
+            "cardSubtitle":"Arvind Gavali College of Engineering, Satara",
+            "cardDetailedText": "CGPA - 8.5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/logo.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "2011",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Nirmala Convent High School, City",
+            "cardDetailedText": "Marks - 78%"
         }
     ]
 }
